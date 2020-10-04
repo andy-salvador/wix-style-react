@@ -234,7 +234,7 @@
     "react-motion": "^0.5.2",
     "react-portal": "^4.2.1",
     "react-scroll-sync": "^0.7.1",
-    "react-slick": "^0.26.1",
+    "react-slick": "^0.27.11",
     "react-transition-group": "^2.9.0",
     "react-window": "^1.8.5",
     "shallowequal": "^1.1.0",
