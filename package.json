@@ -233,7 +233,7 @@
     "react-modal": "3.10.1",
     "react-motion": "^0.5.2",
     "react-portal": "^4.2.1",
-    "react-scroll-sync": "^0.7.1",
+    "react-scroll-sync": "^0.8.0",
     "react-slick": "^0.26.1",
     "react-transition-group": "^2.9.0",
     "react-window": "^1.8.5",
