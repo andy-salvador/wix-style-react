@@ -220,7 +220,7 @@
     "gradient-parser": "^0.1.5",
     "hoist-non-react-methods": "^1.1.0",
     "howler": "^2.2.0",
-    "lodash": "4.17.19",
+    "lodash": "4.17.21",
     "moment": "^2.27.0",
     "omit": "^1.0.1",
     "prop-types": "^15.7.2",
